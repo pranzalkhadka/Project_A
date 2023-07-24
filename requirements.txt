@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+-e .
+#-e . will automatically trigger setup.py file 
